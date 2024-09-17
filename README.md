@@ -6,8 +6,7 @@
    ```
 
 2. **Navigate to the project directory:**
-   ```bash
-   cd signals_assesment
+   cd api
    ```
 
 3. **Create a virtual environment:**
